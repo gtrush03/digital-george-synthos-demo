@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.venv*/
+**/.venv*/
+__pycache__/
+*.pyc
+.env
+.env.*
+credentials.json
+auth.json
+runtime/
+receipts/
+.test-scratch/
+.uv-cache/
+*.mp4
+*.mov
+.DS_Store

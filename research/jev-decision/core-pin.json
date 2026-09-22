@@ -1,0 +1,12 @@
+{
+  "package": "trusynth-jev-lab",
+  "version": "0.1.0",
+  "questionVersion": "2026-09-21.1",
+  "root": "core",
+  "files": {
+    "src/decision/index.ts": "c941e78ed3b44261a6ce1f9ee903ab361a987675e2eccb58bd8b2048685dd952",
+    "src/decision/types.ts": "5d758520bd8cfb4ab4f45d53a8a938548b854cbf9a4c3cc1adb1a4c8c4e00d17",
+    "src/decision/contracts.ts": "ade41624e75d622558c20fe964fb50be6111a8d32e1af9016b0a50192a00d6ae",
+    "src/decision/engine.ts": "9bb785d4ef3c3727b643fbcd392b85a8a7e7a75c57cb70088cb2fbe82bbd1e4b"
+  }
+}

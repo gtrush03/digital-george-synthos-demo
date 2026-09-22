@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@brightdata/cli": "0.3.7",
+    "@brightdata/mcp": "2.11.3",
+    "@modelcontextprotocol/sdk": "1.30.0",
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.11",
+    "typescript": "5.9.3"
+  },
+  "name": "synthos-brains-plugins",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portable Cognee and Bright Data plugins for SYNTHOS",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "test": "node --test dist/*.test.js",
+    "install:vault": "node dist/install.js",
+    "doctor": "node dist/doctor.js"
+  },
+  "overrides": {
+    "@modelcontextprotocol/sdk": "1.30.0"
+  }
+}
