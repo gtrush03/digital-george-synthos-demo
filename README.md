@@ -1,10 +1,14 @@
 # Digital George · SYNTHOS
 
+![Digital George — illustrative native visual](docs/hero.png)
+
+*Original AI-generated concept art, September 21, 2026. The actual workflow recording is separate.*
+
 **Drop finished-work evidence into a local inbox. Get a launch pack grounded in your own memory and existing proof.**
 
 Digital George is a personal launch concierge prototype: it recalls selected context from Cognee, delegates real work to Research Synth and Proof Synth, reads public sources through Bright Data, and creates five finished files inside a visible local workspace. George reviews the result; nothing is posted or sent.
 
-[Watch / download the demo video](https://github.com/gtrush03/digital-george-synthos-demo/releases/download/demo-v1/Digital-George-SYNTHOS.mp4) · [Setup](STARTUP.md) · [Verified run](docs/VERIFIED-RUN.md)
+Demo video rendering · [Release page](https://github.com/gtrush03/digital-george-synthos-demo/releases/tag/demo-v1) · [Setup](STARTUP.md) · [Verified run](docs/VERIFIED-RUN.md)
 
 ```mermaid
 flowchart LR

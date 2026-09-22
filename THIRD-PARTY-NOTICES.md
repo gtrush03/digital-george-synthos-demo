@@ -12,3 +12,5 @@ The organizer example that informed framework research was https://github.com/sa
 First-party source copyright 2026 George Trushevskiy. This public review snapshot does not add a blanket license grant to code with an unspecified license. Public visibility alone does not change third-party rights. Dependencies retain their original licenses. The four local Jev core files arrived without a separate license file; they are published as part of the author's authorized source snapshot, not relabeled as a separately licensed upstream SDK.
 
 Original simple SVG identifiers in this snapshot were created for this public demo. External project videos and historical assets are linked only; their rights are not transferred or asserted.
+
+`docs/hero.png` is original AI-generated concept art created for this demonstration on September 21, 2026, published with the project owner’s authorization. It is illustrative art, not a screenshot or execution evidence.
