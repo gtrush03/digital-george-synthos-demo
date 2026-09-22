@@ -8,7 +8,7 @@
 
 Digital George is a personal launch concierge prototype: it recalls selected context from Cognee, delegates real work to Research Synth and Proof Synth, reads public sources through Bright Data, and creates five finished files inside a visible local workspace. George reviews the result; nothing is posted or sent.
 
-Demo video rendering · [Release page](https://github.com/gtrush03/digital-george-synthos-demo/releases/tag/demo-v1) · [Setup](STARTUP.md) · [Verified run](docs/VERIFIED-RUN.md)
+[Watch / download the 87-second demo](https://github.com/gtrush03/digital-george-synthos-demo/releases/download/demo-v1/Digital-George-SYNTHOS.mp4) · [Setup](STARTUP.md) · [Verified run](docs/VERIFIED-RUN.md)
 
 ```mermaid
 flowchart LR
